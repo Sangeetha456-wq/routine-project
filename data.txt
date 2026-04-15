@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<rules>
+    <sleep>7</sleep>
+    <study>3</study>
+    <screen>3</screen>
+    <wake>6</wake>
+</rules>Sleep:7 Study:8 Wake: Score:100
+Sleep:7 Study:8 Wake:10:13 AM Score:85
+Sleep:9 Study:9 Wake:10:15 AM Score:85
+Sleep:9 Study:9 Wake:10:15 AM Score:85
+Sleep:6 Study:7 Wake:01:00 AM Score:85
+Sleep:6 Study:7 Wake:01:00 AM Score:85
+Sleep:6 Study:7 Wake:01:00 AM Score:85
+Sleep:6 Study:7 Wake:01:00 AM Score:85
+Sleep:8 Study:8 Wake:12:  Score:100
+Sleep:7 Study:8 Wake:06:00 Score:100
+Sleep:6 Study:7 Wake:06:00 Score:85
+Sleep:6 Study:3 Wake:06:00 Score:85
+Sleep:6 Study:3 Screen:3 Wake:06 Score:85
+Sleep:6 Study:3 Screen:3 Wake: Score:85
+Sleep:6 Study:3 Screen:3 Wake: Score:85
+Sleep:6 Study:3 Screen:3 Wake:06 Score:85
+Sleep:6 Study:3 Screen:3 Wake:06 Score:85
+Sleep:6 Study:3 Screen:3 Wake:06 Score:85
+Sleep:6 Study:3 Screen:3 Wake:06 Score:85
+Sleep:6 Study:8 Screen:9 Wake:09 Score:63
+Sleep:7 Study:8 Screen:3 Wake:07 Score:97
+Sleep:6 Study:7 Screen:3 Wake:07:00 AM Score:82
+Sleep:6 Study:5 Screen:3 Wake:06:00 AM Score:85
+Sleep:6 Study:4 Screen:3 Wake:07:00 AM Score:82
+Sleep:5 Study:4 Screen:3 Wake:07:00 AM Score:82
+Sleep:6 Study:3 Screen:3 Wake:06:00 AM Score:85
+Sleep:7 Study:4 Screen:6 Wake:08:00 AM Score:87
+Sleep:5 Study:4 Screen:3 Wake:06:00 AM Score:85
+Sleep:6 Study:6 Screen:6 Wake:06:00 AM Score:75

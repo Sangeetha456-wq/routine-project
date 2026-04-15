@@ -1,0 +1,17 @@
+<rules>
+
+<sleep min="6" max="9" score="30"/>
+<sleep min="5" max="5.9" score="20"/>
+
+<study min="3" max="6" score="30"/>
+<study min="1" max="2.9" score="20"/>
+
+<screen min="0" max="3" score="20"/>
+<screen min="3.1" max="6" score="10"/>
+<screen min="6.1" max="15" score="5"/>
+
+<wake max="6" score="20"/>
+<wake max="8" score="15"/>
+<wake max="12" score="5"/>
+
+</rules>
